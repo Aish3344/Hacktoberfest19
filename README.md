@@ -27,7 +27,7 @@
 * Edit the [CONTRIBUTORS.md](./CONTRIBUTORS.md) of your fork
 * Add your name and profile link to the list 
 * Click on `pull request` 
-* Create a new pull request (on or after 1st Oct)
+* Create a new pull request (between October 1st to 31st)
 * Done!!
 
 <br>
